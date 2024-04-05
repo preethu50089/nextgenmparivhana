@@ -1,0 +1,7 @@
+echo "# nextgenmparivhana" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/preethu50089/nextgenmparivhana.git
+git push -u origin main
